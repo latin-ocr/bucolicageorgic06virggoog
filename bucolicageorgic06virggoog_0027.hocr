@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bucolicageorgic06virggoog/bucolicageorgic06virggoog_0027.png"; bbox 0 0 856 1233; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 1067 622 1079">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 1067 622 1079">
+     <span class='ocr_line' id='line_1_1' title="bbox 262 1067 622 1079; baseline -0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 262 1067 309 1074; x_wconf 67' lang='lat' dir='ltr'>suun-</span> <span class='ocrx_word' id='word_1_2' title='bbox 315 1067 356 1079; x_wconf 69' lang='grc' dir='ltr'>ιιι-με</span> <span class='ocrx_word' id='word_1_3' title='bbox 363 1067 414 1074; x_wconf 59' lang='lat' dir='ltr'>cmm:</span> <span class='ocrx_word' id='word_1_4' title='bbox 420 1067 488 1074; x_wconf 65' lang='lat' dir='ltr'>suu-mma</span> <span class='ocrx_word' id='word_1_5' title='bbox 494 1067 556 1074; x_wconf 78' lang='lat' dir='ltr'>numun-</span> <span class='ocrx_word' id='word_1_6' title='bbox 562 1067 613 1074; x_wconf 59' lang='grc' dir='ltr'>..ιι-,ια</span> <span class='ocrx_word' id='word_1_7' title='bbox 619 1070 622 1073; x_wconf 98' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
